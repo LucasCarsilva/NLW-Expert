@@ -1,2 +1,7 @@
 # NLW-Expert
-NLW Expert, trilha HTML, CSS e JavaScript 
+
+## Trilha utilizando as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript 

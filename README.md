@@ -1,4 +1,4 @@
-# NLW-Expert
+# Quiz NLW-Expert
 
 ## Trilha utilizando as seguintes tecnologias:
 
